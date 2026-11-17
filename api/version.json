@@ -1,16 +1,1 @@
-{
- "version_code": 7,
- "version_name": "0.4.3",
- "apk_url": "https://github.com/zemzeme-app/zemzeme/releases/latest/download/zemzeme.apk",
- "apk_size": 62802932,
- "apk_sha256": "c6f33b7805fc0a57536a7097e4806123212f6fcde8eff48ec9d72a64344b0658",
- "patches": {
-  "6": {
-   "url": "https://github.com/zemzeme-app/zemzeme/releases/download/v0.4.3/6-7.pdl",
-   "size": 3802827,
-   "sha256": "dc67fd68cf60ba306aae946e74e20f8404bbe4ee1cc0079ebd77bda1d188f4c3"
-  }
- },
- "force": false,
- "notes": "رفع مشکل باز نشدن برنامه هنگام اجرا"
-}
+{"apk_sha256":"bd073227cca3ea507523227cd5738371321a78dd1c56e6ef9dddeaed972a3a9b","apk_size":62802844,"apk_url":"https://github.com/zemzeme-app/zemzeme/releases/latest/download/zemzeme.apk","force":false,"notes":"رفع مشکل باز نشدن برنامه هنگام اجرا","patches":{"7":{"sha256":"7a0cfcc46512488453ff22a2617bfc31b2638abe0e09a40534276b9612c823d8","size":12155450,"url":"https://github.com/zemzeme-app/zemzeme/releases/download/v0.4.4/7-8.pdl"}},"version_code":8,"version_name":"0.4.4"}
