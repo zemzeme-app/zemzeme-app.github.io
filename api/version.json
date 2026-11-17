@@ -1,10 +1,16 @@
 {
- "version_code": 6,
- "version_name": "0.4.2",
+ "version_code": 7,
+ "version_name": "0.4.3",
  "apk_url": "https://github.com/zemzeme-app/zemzeme/releases/latest/download/zemzeme.apk",
  "apk_size": 62802932,
- "apk_sha256": "0b72d424e1cb5f97b4487f866a3eff4e898e0460e71c476266baa02d7b8c99b6",
- "patches": {"5": {"url": "https://github.com/zemzeme-app/zemzeme/releases/download/v0.4.2/5-6.pdl", "size": 19650884, "sha256": "2104e35d09f81e62dc8e016c9f925f18f2a3abb4a59e9ad5fb897bf3eae9e5a8"}},
+ "apk_sha256": "c6f33b7805fc0a57536a7097e4806123212f6fcde8eff48ec9d72a64344b0658",
+ "patches": {
+  "6": {
+   "url": "https://github.com/zemzeme-app/zemzeme/releases/download/v0.4.3/6-7.pdl",
+   "size": 3802827,
+   "sha256": "dc67fd68cf60ba306aae946e74e20f8404bbe4ee1cc0079ebd77bda1d188f4c3"
+  }
+ },
  "force": false,
- "notes": "موتور بروزرسانی پچی فعال شد — از این نسخه به بعد آپدیت‌ها سبک میان"
+ "notes": "رفع مشکل باز نشدن برنامه هنگام اجرا"
 }
